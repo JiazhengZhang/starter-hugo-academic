@@ -6,7 +6,7 @@ title: Jiazheng Zhang
 superuser: true
 
 # Role/position/tagline
-role: Postgraduate in School of Electronic Information and Communications (EIC)
+role: Postgraduate in School of Electronic, Information and Communications (EIC)
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -19,18 +19,15 @@ bio: My research interests include social network analysis, data mining and grap
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Mining
+  - Network Science
 
 # Education to show in About widget
 education:
   courses:
-    - course: MEng in Information & Communication Engineering
+    - course: BSc in Electrical Engineering
       institution: Huazhong University of Science and Technology
-      year: 2021-
-    - course: BSc in Electronic Information Engineering
-      institution: Huazhong University of Science and Technology
-      year: 2017-2021
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,8 +61,12 @@ email: 'jiazhengzhang@hust.edu.cn'
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jiazheng Zhang is currently a postgraduate student in the School of Electronic, Information and Communications, HUST. His research interests include social network analysis, data mining and graph representation learning. It is my pleasure to be supervised by Prof. Bang Wang. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In my free time, I enjoy basketball, music, photography and travelling. 
+Feel free to contact me for brainstorming.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+

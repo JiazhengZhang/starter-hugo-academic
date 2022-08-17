@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jiazheng Zhang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postgraduate in School of Electronic Information and Communications (EIC)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Huazhong University of Science and Technology (HUST)
+    url: https://www.hust.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include social network analysis, data mining and graph representation learning.
 
 # Interests to show in About widget
 interests:
@@ -25,15 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng in Information & Communication Engineering
+      institution: Huazhong University of Science and Technology
+      year: 2021-
+    - course: BSc in Electronic Information Engineering
+      institution: Huazhong University of Science and Technology
+      year: 2017-2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,16 +39,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:jiazhengzhang@hust.edu.cn'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/JiazhengZhang
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -64,7 +58,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'jiazhengzhang@hust.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

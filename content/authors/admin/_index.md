@@ -45,7 +45,7 @@ social:
     link: https://github.com/JiazhengZhang
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.cn/incareer/in/jiazheng-zhang-29773a244
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -62,8 +62,7 @@ highlight_name: true
 ---
 
 I am currently a postgraduate student in the School of Electronic, Information and Communications, HUST. It is my pleasure to be supervised by [Prof. Bang Wang](http://eic.hust.edu.cn/teacher/wangbang/index.htm). 
-My research interests include social network analysis, data mining and graph representation learning.
-
+My research interests include social network analysis and graph representation learning.
 In my free time, I enjoy basketball, music, photography and travelling. My Email address is jiazhengzhang@hust.edu.cn.
 Feel free to contact me for brainstorming. 
 

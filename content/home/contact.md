@@ -2,6 +2,10 @@
 # An instance of the Contact widget.
 widget: contact
 
+
+# Activate this widget? true/false
+active: False
+
 # This file represents a page section.
 headless: true
 

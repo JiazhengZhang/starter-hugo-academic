@@ -64,10 +64,10 @@ highlight_name: true
 I am currently a postgraduate student in the School of Electronic, Information and Communications, HUST. It is my pleasure to be supervised by [Prof. Bang Wang](http://eic.hust.edu.cn/teacher/wangbang/index.htm). 
 My research interests include social network analysis, data mining and graph representation learning.
 
-In my free time, I enjoy basketball, music, photography and travelling. 
+In my free time, I enjoy basketball, music, photography and travelling. My Email address is jiazhengzhang@hust.edu.cn.
 Feel free to contact me for brainstorming. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
 
 

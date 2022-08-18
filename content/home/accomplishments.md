@@ -11,7 +11,7 @@ weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 # title: 'Accomplish&shy;ments'
-title: Awards
+title: Awards and Honors
 subtitle:
 
 # Date format
@@ -38,7 +38,7 @@ item:
     date_start: '2019-12-01'
     description: ''
     organization: Science and Technology Education Association of Jilin Province
-    title: The Third Prize in the 2nd China CYC National Student Mathematical Contest in Modeling
+    title: Third Prize in the 2nd China CYC National Mathematical Contest in Modeling
   - date_end: ''
     date_start: '2019-10-25'
     description: 'Top 1% students'

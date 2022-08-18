@@ -18,8 +18,8 @@ bio: My research interests include social network analysis, data mining and grap
 
 # Interests to show in About widget
 interests:
-  - Machine Learning
-  - Network Science
+  - Social Network Analysis
+  - Graph Representation Learning
   - Data Mining
 
 # Education to show in About widget
@@ -61,8 +61,8 @@ email: 'jiazhengzhang@hust.edu.cn'
 highlight_name: true
 ---
 
-I am currently a postgraduate student in the School of Electronic, Information and Communications, HUST. It is my pleasure to be supervised by [Prof. Bang Wang](http://eic.hust.edu.cn/teacher/wangbang/index.htm). 
-My research interests include social network analysis and graph representation learning.
+I am currently a postgraduate student in the School of Electronic, Information and Communications, HUST. It is my pleasure to be supervised by [Prof. Bang Wang](http://eic.hust.edu.cn/teacher/wangbang/index.htm).  I received my B.S. degree from the same school in 2021.
+My research interests include social network analysis, graph representation learning and data mining.
 
 In my free time, I enjoy basketball, music, photography and travelling. My Email address is jiazhengzhang@hust.edu.cn.
 Feel free to contact me for brainstorming. 

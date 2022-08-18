@@ -24,19 +24,19 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: 
+  - certificate_url: '' 
     date_end: ''
     date_start: '2021-01-25'
     description: ''
     organization: HUST
     title: Scholarship of National Encouragement
-  - certificate_url: 
+  - certificate_url: ''
     date_end: ''
     date_start: '2019-12-01'
     description: ''
     organization: Science and Technology Education Association of Jilin Province
     title: The 2nd China CYC National Student Mathematical Contest in Modeling
-    - certificate_url: 
+    - certificate_url: ''
     date_end: ''
     date_start: '2019-10-25'
     description: ''

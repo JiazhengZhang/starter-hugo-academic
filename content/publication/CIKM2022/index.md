@@ -58,8 +58,8 @@ url_pdf: 'https://arxiv.org/pdf/2208.07792.pdf'
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
 image:
-  caption: '(logo.png)'
-  focal_point: ''
+  # caption: '(logo.png)'
+  focal_point: "Center"
   preview_only: false
 
 # Associated Projects (optional).

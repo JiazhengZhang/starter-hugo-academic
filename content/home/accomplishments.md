@@ -25,21 +25,27 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - date_end: ''
+    date_start: '2022-06-01'
+    description: 'Highest recognition for undergraduate academic performance'
+    organization: Huazhong University of Science and Technology
+    title: Bachelor of Engineering with Honours
+  - date_end: ''
     date_start: '2021-01-25'
-    description: ''
-    organization: HUST
+    description: 'Top 1% students'
+    organization: Huazhong University of Science and Technology
     title: Scholarship of National Encouragement
   - date_end: ''
     date_start: '2019-12-01'
     description: ''
     organization: Science and Technology Education Association of Jilin Province
-    title: The 2nd China CYC National Student Mathematical Contest in Modeling
+    title: The Third Prize in the 2nd China CYC National Student Mathematical Contest in Modeling
   - date_end: ''
     date_start: '2019-10-25'
-    description: ''
-    organization: HUST
+    description: 'Top 1% students'
+    organization: Huazhong University of Science and Technology
     title: Scholarship of National Encouragement
 
 design:
   columns: '2'
 ---
+

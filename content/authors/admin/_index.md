@@ -61,7 +61,7 @@ email: 'jiazhengzhang@hust.edu.cn'
 highlight_name: true
 ---
 
-I am currently a postgraduate student in the School of Electronic, Information and Communications, HUST. It is my pleasure to be supervised by [Prof. Bang Wang](http://eic.hust.edu.cn/teacher/wangbang/index.htm).  I received my B.S. degree from the same school in 2021.
+I am currently a postgraduate student in the School of Electronic, Information and Communications, HUST. It is my pleasure to be supervised by [Prof. Bang Wang](http://eic.hust.edu.cn/teacher/wangbang/index.htm).  I received B. Eng degree from the same school in 2021.
 My research interests include social network analysis, graph representation learning and data mining.
 
 In my free time, I enjoy basketball, music, photography and travelling. My Email address is jiazhengzhang@hust.edu.cn.

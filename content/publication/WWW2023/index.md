@@ -1,13 +1,11 @@
 ---
-title: 'A Flow Attack Strategy Based on Critical Links for Cyber-Attack'
+title: 'Encoding Node Diffusion Competence and Role Significance for Network Dismantling'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Jiming Qi
   - admin
-  - Qingxia Liu
   - Bang Wang
 
 # # Author notes (optional)
@@ -16,7 +14,7 @@ authors:
 #   - 'Equal contribution'
 
 # date: '2022-07-01T00:00:00Z'
-date: '2022-08-23T00:00:00Z'
+date: '2023-01-25T00:00:00Z'
 # doi: 'https://doi.org/10.1145/3511808.3557290'
 
 # # Schedule page publish date (NOT publication's date).
@@ -29,13 +27,13 @@ date: '2022-08-23T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 21st IEEE International Conference on Trust, Security and Privacy in Computing and Communications*
-publication_short: '*The 21st IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom), 2022*'
+publication: In *Proceedings of the 2023 ACM Web Conference*
+publication_short: 'WWW, 2023*'
 
 # abstract: Can we employ one neural model to efficiently dismantle many complex yet unique networks? This article provides an affirmative answer. Diverse real-world systems can be abstracted as complex networks each consisting of many functional nodes and edges. Percolation theory has indicated that removing only a few vital nodes can cause the collapse of whole network. However, finding the least number of such vital nodes is a rather challenging task for large networks due to its NP-hardness. Previous studies have proposed many centrality measures and heuristic algorithms to tackle this network dismantling (ND) problem. Different from theirs, this article tries to approach the ND task by designing a neural model which can be trained from tiny synthetic networks but will be applied for various real-world networks. It seems a discouraging mission at first sight, as network sizes and topologies are quite different across distinct real-world networks. Nonetheless, this article initiates insightful efforts of designing and training a neural influence ranking model (NIRM). Experiments on fifteen real-world networks validate its effectiveness for its mostly requiring fewer vital nodes to dismantle a network, compared with the state-of-the-art competitors. The key to its success lies in that our NIRM can efficiently encode both local structural and global topological signals for ranking nodes, in addition to our innovative labelling method in training dataset construction.
 
 # Summary. An optional shortened abstract.
-summary: Our work has been accepted by TrustCom'2022 as a research paper.
+summary: Our work has been accepted by WWW'2023 as a research paper.
 
 tags: []
 

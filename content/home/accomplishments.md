@@ -25,6 +25,11 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - date_end: ''
+    date_start: '2022-12-25'
+    description: 'Top 1% students'
+    organization: Huazhong University of Science and Technology
+    title: Scholarship of Chinese Optics Valley
+  - date_end: ''
     date_start: '2021-06-01'
     description: 'Highest recognition for undergraduate academic performance'
     organization: Huazhong University of Science and Technology
@@ -33,17 +38,14 @@ item:
     date_start: '2021-01-25'
     description: 'Top 1% students'
     organization: Huazhong University of Science and Technology
-    title: Scholarship of National Encouragement
+    title: Scholarship of National Encouragement 
   - date_end: ''
     date_start: '2019-12-01'
     description: ''
     organization: Science and Technology Education Association of Jilin Province
-    title: Third Prize in the 2nd China CYC National Mathematical Modeling Competition
-  - date_end: ''
-    date_start: '2019-10-25'
-    description: 'Top 1% students'
-    organization: Huazhong University of Science and Technology
-    title: Scholarship of National Encouragement
+    title: Third Prize in China 2nd CYC Undergraduate Mathematical Contest in Modeling
+
+
 
 design:
   columns: '2'

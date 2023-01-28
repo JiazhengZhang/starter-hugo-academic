@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: B. Eng in Electrical Engineering
+    - course: B. Eng in Electrical Engineering (GPA: 3.92/4)
       institution: Huazhong University of Science and Technology
       year: 2021
 

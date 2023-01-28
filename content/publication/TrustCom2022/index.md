@@ -48,6 +48,7 @@ featured: true
 #   url: http://example.org
 
 # url_pdf: 'https://arxiv.org/pdf/2208.07792.pdf'
+url_pdf: 'https://arxiv.org/pdf/2208.07792.pdf'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''

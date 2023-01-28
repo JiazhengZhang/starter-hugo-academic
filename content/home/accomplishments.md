@@ -25,15 +25,15 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - date_end: ''
+    date_start: '2021-06-01'
+    description: 'GPA: 3.92/4, Highest recognition for undergraduate academic performance'
+    organization: Huazhong University of Science and Technology
+    title: Bachelor of Engineering with Honours
+  - date_end: ''
     date_start: '2022-12-25'
     description: 'Top 1% students'
     organization: Huazhong University of Science and Technology
     title: Scholarship of Chinese Optics Valley
-  - date_end: ''
-    date_start: '2021-06-01'
-    description: 'Highest recognition for undergraduate academic performance'
-    organization: Huazhong University of Science and Technology
-    title: Bachelor of Engineering with Honours
   - date_end: ''
     date_start: '2021-01-25'
     description: 'Top 1% students'
